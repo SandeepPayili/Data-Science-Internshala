@@ -42,7 +42,7 @@ _About predictive models & their stages, data extraction & exploration, univaria
 > therefore function as a sensor network, which can be used for studying
 > mobility in a city._
 
-## `Project Code` : [Link]()
+## `Project Code` : [Link](https://github.com/SandeepPayili/Data-Science-Internshala/blob/31e4ac292831c2d12568ee8ca392798d87a0d278/4.Predictive%20Modeling%20and%20Basics%20of%20Machine%20Learning/Assignment%20Solution/Bike%20Rental%20Regression%20Model.ipynb)
 
 ---
 
@@ -66,6 +66,6 @@ _About predictive models & their stages, data extraction & exploration, univaria
 > provided with the information of the call such as the duration of the call, dayand month of the call, etc. Given this information, your task is to predict if
 > the client will subscribe to term deposit._
 
-## `Project Code` : [Link]()
+## `Project Code` : [Link](https://github.com/SandeepPayili/Data-Science-Internshala/blob/31e4ac292831c2d12568ee8ca392798d87a0d278/Final%20Project%20Submission/Final_Project_Subscribe_to_Term_Deposit_Classification.ipynb)
 
 ---
